@@ -1,8 +1,8 @@
 {
   "name": "playground-be",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "playground-be",
+  "author": "kyubumjang",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
